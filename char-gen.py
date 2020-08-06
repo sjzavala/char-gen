@@ -1,8 +1,8 @@
-# Character Creator
+#Seve's char generator. this is still wonky but its a work in progress.
 
-# Write a Character Creator program for a role-playing game. The player should be given a pool of 30 points to spend
-# on four attributes: Strength, Health, Wisdom, and Dexterity. The player should be able to spend points from the
-# pool on any attribute and should also be able to take points from an attribute and put them back into the pool.
+# The player is given a pool of 30 points to spend this can be changed according to level.
+#  four attributes: Strength, Health, Wisdom, and Dexterity.
+# Each attribute can be boosted with points from the pool you can also put them back into the pool.
 
 # import statements
 
